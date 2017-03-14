@@ -1,15 +1,17 @@
+
+
 table, th, td {
-  border: 5px solid white;
+  border: 0.5px solid gray;
 }
 
 body {
-  color: white;
-  background-color: tan;
-  text-align: center;
+  color: blue;
+  background-color: lightblue;
+  text-align: left;
 }
 h1 {
-  color: white;
+  color: darkblue;
   font-size: 80px;
-  font-family: cursive;
+  font-family: monospace;
 
 }
