@@ -1,8 +1,18 @@
 table, th, td {
-  border: 1px solid black;
+  border: 5px solid white;
 }
 
 body {
+  color: white;
   background-color: tan;
   text-align: center;
+}
+h1 {
+  color: white;
+  font-size: 80px;
+  font-family: cursive;
+
+}
+head {
+  font-family: cursive;
 }
